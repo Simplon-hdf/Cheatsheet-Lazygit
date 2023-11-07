@@ -1,3 +1,3 @@
 #**Code de conduite**
 
-[Code de conduite open Source](https://www.contributor-covenant.org/)
+Ce code de conduite est tiré du [Code de conduite open Source](https://www.contributor-covenant.org/)

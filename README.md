@@ -1,2 +1,3 @@
 # Cheatsheet-Lazygit
-Brief help concerning Lazygit
+
+Brief concernant l'utilisation de Lazygit
