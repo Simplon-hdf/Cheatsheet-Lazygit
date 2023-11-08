@@ -55,3 +55,20 @@ Voici quelques-unes des opérations et commandes courantes dans LazyGit :
 * ```M``` : Merge dans la branche actuelle
 * ```U``` : Ouvrir les options pour _Upstream_
 * ```W``` : Ouvrir les options de _Worktree_
+
+### Remotes :
+
+* ```F``` : _Fetch_ _Remote_
+* ```N``` : Effectuer un _Remote_
+* ```E``` : Editer un _Remote_
+* ```D``` : Supprimer un _Remote_
+
+### Stash :
+
+_Le stash correspond à enregistrer l’état actuel du répertoire de travail et de l’index, afin de revenir à un répertoire de travail propre_
+
+* ```Espace``` : Appliquer le _Stash_
+* ```R``` : Renommer le _Stash_
+* ```D``` : _Drop_ = Supprimer une entrée de la liste des entrées de remisage
+* ```G``` : _Pop_ = Supprimer un seul remisage de la liste des remisages et l’appliquer par dessus l’état de l’arbre de travail actuel
+* ```N``` : Nouvelle branche (rappel)
