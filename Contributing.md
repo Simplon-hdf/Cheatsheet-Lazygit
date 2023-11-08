@@ -1,4 +1,4 @@
-#**Contributeurs**
+# **Contributeurs**
 
 <<<<<<< HEAD
 ``` Merci aux contributeurs divers de respecter les règles de contribution ```
