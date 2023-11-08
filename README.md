@@ -4,7 +4,7 @@ _Lazygit_ est une **interface utilisateur** permettant de lancer des commandes G
 
 _Lazygit_ permet globalement d'ajouter des fichiers à un projet, résoudre des conflits avec des merges, réaliser des checkout rapides, parcourir des logs et réaliser des push, pull ou encore renommer des commits.
 
-<ins>Commandes de lazygit<ins>
+<u>Commandes de lazygit</u>
 
 Voici quelques-unes des opérations et commandes courantes dans LazyGit :
 
