@@ -36,3 +36,22 @@ Voici quelques-unes des opérations et commandes courantes dans LazyGit :
 * ```Espace``` : Basculer le fichier en correction
 * ```A``` : Basculer tous les fichiers en correction
 
+### Commits :
+
+* ```D``` : Supprimer un commit
+* ```E``` : Editer un commit
+* ```R``` : Reformuler un commit
+* ```S``` : _Squash_ = Regrouper des commits et les fusionner en un seul
+* ```F``` : Prépare un _Fixup_ sur un commit en vue du prochain _Rebase_
+* ```C``` : Copier un commit (_cherry-pick_)
+
+### Branches
+
+* ```N``` : Créer une nouvelle branche
+* ```Ctrl + O``` : Copier le nomde la branche sur le _clipboard_
+* ```O``` : Effectuer une _Pull request_
+* ```R``` : Renommer une branche
+* ```Espace``` : Réalise un _checkout_ = Basculer sur une nouvelle branche
+* ```M``` : Merge dans la branche actuelle
+* ```U``` : Ouvrir les options pour _Upstream_
+* ```W``` : Ouvrir les options de _Worktree_
