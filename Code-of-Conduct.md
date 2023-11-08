@@ -13,10 +13,8 @@ _Exemples de comportements qui contribuent à créer un environnement positif :_
    + Faire preuve d'empathie et de bienveillance envers les autres
    + Donner et recevoir avec grâce les critiques constructives
    + Être respectueux des opinions, points de vue et expériences divergents
-   + Assumer ses responsabilités et s'excuser auprès des personnes
-   + affectées par nos erreurs et apprendre de ces expériences
-   + Se concentrer sur ce qui est le meilleur non pas uniquement pour nous
-   + en tant qu'individu, mais aussi pour l'ensemble de la communauté
+   + Assumer ses responsabilités et s'excuser auprès des personnes affectées par nos erreurs et apprendre de ces expériences
+   + Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu'individu, mais aussi pour l'ensemble de la communauté
 
 _Exemples de comportements inacceptables_ :
 
