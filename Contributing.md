@@ -1,11 +1,6 @@
 # **Contributeurs**
 
-<<<<<<< HEAD
 ``` Merci aux contributeurs divers de respecter les règles de contribution ```
-=======
-
-```Merci aux contributeurs divers de respecter les règles de contribution```
->>>>>>> Develop
 
 * Un contributeur doit forker le projet source puis pourra soumettre ces contributions via des pull request.
 
