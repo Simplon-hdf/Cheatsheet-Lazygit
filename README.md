@@ -4,15 +4,7 @@ _Lazygit_ est une **interface utilisateur** permettant de lancer des commandes G
 
 _Lazygit_ permet globalement d'ajouter des fichiers à un projet, résoudre des conflits avec des merges, réaliser des checkout rapides, parcourir des logs et réaliser des push, pull ou encore renommer des commits.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## <ins>Commandes de lazygit<ins>
-=======
-<ins>Commandes de lazygit<ins>
->>>>>>> Develop
-=======
-<u>Commandes de lazygit</u>
->>>>>>> Develop
+## <u>Commandes de lazygit</u>
 
 Voici quelques-unes des opérations et commandes courantes dans LazyGit :
 
@@ -26,11 +18,7 @@ Voici quelques-unes des opérations et commandes courantes dans LazyGit :
     2. Valider les opérations:
         ◦ c: Ouvrir une nouvelle interface de validation pour préparer et rédiger un message de validation.
         ◦ C: Interface de validation ouverte avec toutes les modifications déjà effectuées
-<<<<<<< HEAD
-        ◦ s: Modification d'étape pour un commit.
-=======
         ◦ s: Modifications d'étape pour un commit.
->>>>>>> Develop
         ◦ u: Annuler la mise en scène des modifications.
         ◦ P: Toggle the selection of individual lines within files.
 
@@ -40,11 +28,7 @@ Voici quelques-unes des opérations et commandes courantes dans LazyGit :
         ◦ m: Fusionner une branche dans une autre.
 
 
-<<<<<<< HEAD
     4. Pull et Push:
-=======
-    4. Tirer et pousser:
->>>>>>> Develop
         ◦ P: Extraire les modifications depuis une télécommande.
         ◦ p: Transférer les modifications vers une télécommande.
 
