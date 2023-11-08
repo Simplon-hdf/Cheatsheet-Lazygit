@@ -4,53 +4,35 @@ _Lazygit_ est une **interface utilisateur** permettant de lancer des commandes G
 
 _Lazygit_ permet globalement d'ajouter des fichiers à un projet, résoudre des conflits avec des merges, réaliser des checkout rapides, parcourir des logs et réaliser des push, pull ou encore renommer des commits.
 
-## <u>Commandes de lazygit</u>
+## Commandes de lazygit
 
 Voici quelques-unes des opérations et commandes courantes dans LazyGit :
 
-    1. Navigation:
+### Commandes globales :
 
-        ◦ Up and down arrow keys: Naviguer dans l’historique des validations ou dans les fichiers.
-        ◦ Enter: Afficher les détails des validations, des fichiers ou des différences.
-        ◦ Left and right arrow keys: Se déplacer entre différentes sections comme la vue des fichiers, la vue des validations, etc.
-        ◦ Esc or q: Quitter ou fermer la vue actuellement ouverte.
+* ```Esc``` : Quitter/Annuler
+* ```Enter``` : Confirmer/Valider
+* ```PageUP``` / ```PageDown``` : Défiler sur les panels
+* ```Ctrl + R``` : Retour sur le repo le plus récent
+* ```@``` : Menu des commandes de connexion
+* ```?``` : Menu principal
+* ```Z``` : Annuler la dernière commande
+* ```Ctrl + Z``` : Refaire la commande annulée précédemment
+* ```Shift + P``` : Faire un _Push_
+* ```P``` : Faire un _Pull_
 
+### Navigation :
 
-    2. Valider les opérations:
+* ```,``` : Page précédente
+* ```.``` : Page suivante
+* ```<``` ou ```>``` : Défiler tout en haut ou tout en bas
+* ```H``` ou ```L``` : Défiler tout à gauche ou tout à droite
 
-        ◦ c: Ouvrir une nouvelle interface de validation pour préparer et rédiger un message de validation.
-        ◦ C: Interface de validation ouverte avec toutes les modifications déjà effectuées
-        ◦ s: Modifications d'étape pour un commit.
-        ◦ u: Annuler la mise en scène des modifications.
-        ◦ P: Toggle the selection of individual lines within files.
+### Fichier Commit :
 
+* ```O``` : Ouvrir un fichier
+* ```E``` : Editer un fichier
+* ```Ctrl + O``` : Copier le nom du commit sur le clipboard
+* ```Espace``` : Basculer le fichier en correction
+* ```A``` : Basculer tous les fichiers en correction
 
-    3. Branches et fusion:
-
-        ◦ b: Changer de branche ou créer une nouvelle branche.
-        ◦ m: Fusionner une branche dans une autre.
-
-
-    4. Pull et Push:
-
-        ◦ P: Extraire les modifications depuis une télécommande.
-        ◦ p: Transférer les modifications vers une télécommande.
-
-
-    5. Réparation et Réinitialisation:
-
-        ◦ S: Créer une nouvelle réserve.
-        ◦ r: Réinitialiser les modifications dans le fichier sélectionné.
-        ◦ R: Réinitialiser les modifications dans le répertoire de travail.
-
-
-    6. Recherche:
-
-        ◦ /: Rechercher dans l'interface.
-
-
-    7. Autres fonctions:
-    
-        ◦ ?: Ouvrir le menu d'aide pour afficher les raccourcis clavier et les commandes.
-        ◦ !: Ouvrir un terminal pour exécuter des commandes shell sans quitter LazyGit.
-        ◦ D: Supprimer des fichiers ou des répertoires.
