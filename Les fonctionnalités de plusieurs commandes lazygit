@@ -1,4 +1,4 @@
-lazygit commands
+Commandes de lazygit
 
 Voici quelques-unes des opérations et commandes courantes dans LazyGit :
 
@@ -9,7 +9,7 @@ Voici quelques-unes des opérations et commandes courantes dans LazyGit :
         ◦ Esc or q: Quitter ou fermer la vue actuellement ouverte.
 
 
-    2. Commit Operations:
+    2. Valider les opérations:
         ◦ c: Ouvrez une nouvelle interface de validation pour préparer et rédiger un message de validation.
         ◦ C: Interface de validation ouverte avec toutes les modifications déjà effectuées
         ◦ s: Modifications d'étape pour un commit.
@@ -17,23 +17,23 @@ Voici quelques-unes des opérations et commandes courantes dans LazyGit :
         ◦ P: Toggle the selection of individual lines within files.
 
 
-    3. Branches and Merging:
+    3. Branches et fusion:
         ◦ b: Changer de branche ou créer une nouvelle branche.
         ◦ m: Fusionner une branche dans une autre.
 
 
-    4. Pulling and Pushing:
+    4. Tirer et pousser:
         ◦ P: Extraire les modifications depuis une télécommande.
         ◦ p: Transférer les modifications vers une télécommande.
 
 
-    5. Stashing and Resetting:
+    5. repaire et réinitialisation:
         ◦ S: Créer une nouvelle réserve.
         ◦ r: Réinitialiser les modifications dans le fichier sélectionné.
         ◦ R: Réinitialiser les modifications dans le répertoire de travail.
 
 
-    6. Searching:
+    6. Recherche:
         ◦ /: Rechercher dans l'interface.
 
 
